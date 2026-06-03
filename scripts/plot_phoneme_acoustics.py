@@ -13,6 +13,7 @@ from pathlib import Path
 import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
+from matplotlib.patches import Patch
 import pandas as pd
 
 matplotlib.rcParams["font.family"] = "Noto Sans"
@@ -95,9 +96,11 @@ def plot_frequency(summary: pd.DataFrame, lang: str) -> None:
     ax.set_title(s["freq_title"], fontsize=13)
     ax.xaxis.set_major_formatter(ticker.FuncFormatter(lambda x, _: f"{int(x):,}"))
 
-    for key, color in EVIDENCE_COLORS.items():
-        ax.barh([], [], color=color, label=s["evidence_labels"][key])
-    ax.legend(title=s["evidence_legend"], loc="lower right", fontsize=9)
+    handles = [
+        Patch(facecolor=color, edgecolor="none", label=s["evidence_labels"][key])
+        for key, color in EVIDENCE_COLORS.items()
+    ]
+    ax.legend(handles=handles, title=s["evidence_legend"], loc="lower right", fontsize=9)
 
     fig.tight_layout()
     out = OUT_DIR / f"fig_phoneme_frequency_{lang}.png"
@@ -158,9 +161,11 @@ def plot_confidence(summary: pd.DataFrame, lang: str) -> None:
     ax.set_xlabel(s["conf_xlabel"], fontsize=12)
     ax.set_title(s["conf_title"], fontsize=13)
 
-    for key, color in EVIDENCE_COLORS.items():
-        ax.barh([], [], color=color, label=s["evidence_labels"][key])
-    ax.legend(title=s["evidence_legend"], loc="lower right", fontsize=9)
+    handles = [
+        Patch(facecolor=color, edgecolor="none", label=s["evidence_labels"][key])
+        for key, color in EVIDENCE_COLORS.items()
+    ]
+    ax.legend(handles=handles, title=s["evidence_legend"], loc="lower right", fontsize=9)
 
     fig.tight_layout()
     out = OUT_DIR / f"fig_phoneme_confidence_{lang}.png"

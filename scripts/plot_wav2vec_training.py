@@ -11,6 +11,7 @@ Outputs (figures/wav2vec/), in both English (_en) and Turkish (_tr):
 from __future__ import annotations
 
 import csv
+import json
 from pathlib import Path
 
 import matplotlib
@@ -100,6 +101,91 @@ def load_per_phone(stem: str) -> dict:
                 "ref": int(row["ref_count"]),
             }
     return data
+
+
+def load_test_summary(stem: str) -> dict:
+    path = ARTIFACTS / f"{stem}_per.json"
+    with path.open(encoding="utf-8") as f:
+        return json.load(f)
+
+
+# ─── Figure 0: Test-set PER summary ───────────────────────────────────────────
+
+def plot_test_per_summary(lang: str = "en") -> Path:
+    labels = {
+        "en": {
+            "title": "Test-Set Full IPA PER",
+            "ylabel": "Phone Error Rate (%)",
+            "overall": "Full test",
+            "cv": "Common Voice",
+            "issai": "ISSAI TSC",
+            "xlsr": "XLS-R-300M",
+            "mms": "MMS-1B",
+            "note": "Bars show utterance-level test-split Full IPA PER, not per-phoneme worst-case PER.",
+        },
+        "tr": {
+            "title": "Test Seti Full IPA FHO",
+            "ylabel": "Fonem Hata Oranı (%)",
+            "overall": "Genel test",
+            "cv": "Common Voice",
+            "issai": "ISSAI TSC",
+            "xlsr": "XLS-R-300M",
+            "mms": "MMS-1B",
+            "note": "Sütunlar test split Full IPA FHO değeridir; fonem-başına en kötü durum FHO'su değildir.",
+        },
+    }[lang]
+
+    xlsr = load_test_summary("xlsr_test")
+    mms = load_test_summary("mms1b_test")
+
+    categories = [labels["overall"], labels["cv"], labels["issai"]]
+    xlsr_values = [
+        xlsr["per"] * 100,
+        xlsr["by_source"]["common_voice"]["per"] * 100,
+        xlsr["by_source"]["issai_tsc"]["per"] * 100,
+    ]
+    mms_values = [
+        mms["per"] * 100,
+        mms["by_source"]["common_voice"]["per"] * 100,
+        mms["by_source"]["issai_tsc"]["per"] * 100,
+    ]
+
+    x = np.arange(len(categories))
+    w = 0.34
+
+    fig, ax = plt.subplots(figsize=(10, 5.5))
+    bars_x = ax.bar(x - w / 2, xlsr_values, width=w, color="#1f77b4", label=labels["xlsr"], alpha=0.9)
+    bars_m = ax.bar(x + w / 2, mms_values, width=w, color="#ff7f0e", label=labels["mms"], alpha=0.9)
+
+    for bars in (bars_x, bars_m):
+        for bar in bars:
+            value = bar.get_height()
+            ax.text(
+                bar.get_x() + bar.get_width() / 2,
+                value + 0.06,
+                f"%{value:.2f}".replace(".", ",") if lang == "tr" else f"{value:.2f}%",
+                ha="center",
+                va="bottom",
+                fontsize=10,
+                fontweight="bold",
+            )
+
+    ax.set_xticks(x)
+    ax.set_xticklabels(categories, fontsize=11)
+    ax.set_ylabel(labels["ylabel"], fontsize=11)
+    ax.set_title(labels["title"], fontsize=13, fontweight="bold")
+    ax.legend(fontsize=10, loc="upper left")
+    ax.set_ylim(0, 5.2)
+    ax.yaxis.set_major_formatter(mticker.FuncFormatter(lambda y, _: f"%{y:.0f}" if lang == "tr" else f"{y:.0f}%"))
+    ax.grid(axis="y", alpha=0.3)
+    fig.text(0.5, -0.03, labels["note"], ha="center", fontsize=8.5, style="italic", color="gray")
+    plt.tight_layout()
+
+    suffix = f"_{lang}"
+    out = OUT_DIR / f"fig_test_per_summary{suffix}.png"
+    fig.savefig(out, dpi=150, bbox_inches="tight")
+    plt.close(fig)
+    return out
 
 # ─── Figure 1: Training convergence curves ────────────────────────────────────
 
@@ -367,7 +453,13 @@ def plot_phoneme_classes(lang: str = "en") -> Path:
 
 if __name__ == "__main__":
     for lang in ("en", "tr"):
-        for fn in (plot_training_curves, plot_model_comparison, plot_long_vowels, plot_phoneme_classes):
+        for fn in (
+            plot_test_per_summary,
+            plot_training_curves,
+            plot_model_comparison,
+            plot_long_vowels,
+            plot_phoneme_classes,
+        ):
             out = fn(lang)
             print(f"  {out}")
     print("Done.")
