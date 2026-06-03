@@ -1,0 +1,67 @@
+word,expected_ipa,category,notes
+ben,/bæn/,sonorant_coda_open,monosyllabic n
+sen,/sæn/,sonorant_coda_open,monosyllabic n
+el,/æl/,sonorant_coda_open,monosyllabic l
+ders,/dæɾ̞̊s/,sonorant_coda_open,r-coda + devoiced preceding s
+denk,/dæŋk/,sonorant_coda_open,n-assim Vnk
+gel,/ɟæl/,sonorant_coda_open,onset-palatal + l-coda
+ter,/tʰæɾ̞̊/,sonorant_coda_open,onset-aspirate + r-devoiced
+her,/hæɾ̞̊/,sonorant_coda_open,h-onset + r-devoiced
+ekmek,/ek.ˈmec/,obstruent_coda_close,k-coda preceding m (no /æ/); final k palatalize
+tek,/tʰec/,obstruent_coda_close,onset aspirate + final palatal (no /æ/)
+çekti,/t͡ʃek.ˈtʰi/,obstruent_coda_close,k-coda preceding t (no /æ/)
+sept,/sept/,obstruent_coda_close,foreign cluster
+mehmet,/meh.ˈmet/,obstruent_coda_close,h+t coda → both /e/ kept
+dağ,/daː/,soft_g_monosyllabic,word-final ğ → lengthen
+bağ,/baː/,soft_g_monosyllabic,word-final ğ → lengthen
+sağ,/saː/,soft_g_monosyllabic,word-final ğ → lengthen
+ağ,/aː/,soft_g_monosyllabic,word-final ğ → lengthen (no onset)
+çiğ,/t͡ʃiː/,soft_g_monosyllabic,word-final ğ + iː
+oğul,/o.ˈuɫ/,soft_g_back_back_hiatus,intervocalic ğ → hiatus (no length)
+boğaz,/bo.ˈaz/,soft_g_back_back_hiatus,intervocalic ğ → hiatus
+mağara,/ma.a.ˈɾa/,soft_g_back_back_hiatus,intervocalic ğ → hiatus (3 vowels)
+doğa,/do.ˈa/,soft_g_back_back_hiatus,intervocalic ğ → hiatus
+soğan,/so.ˈan/,soft_g_back_back_hiatus,intervocalic ğ → hiatus
+değil,/de.ˈjil/,soft_g_front_front,intervocalic ğ → /j/
+eğitim,/e.ji.ˈtʰim/,soft_g_front_front,intervocalic ğ → /j/
+değnek,/dej.ˈnec/,soft_g_e_coda,/e/+coda ğ → [ej]
+teğmen,/tʰej.ˈmæn/,soft_g_e_coda,/e/+coda ğ → [ej]
+fare,/faː.ˈɾe/,long_vowel_lex,Arabic loanword long a
+mavi,/maː.ˈvi/,long_vowel_lex,Arabic loanword long a
+hafız,/ˈhaː.fɯz/,long_vowel_lex,Arabic loanword initial stress
+idare,/i.daː.ˈɾe/,long_vowel_lex,Arabic loanword long a (medial)
+kanun,/kʰaː.ˈnun/,long_vowel_lex,Arabic loanword + onset aspirate
+mabed,/maː.ˈbed/,long_vowel_lex,Arabic loanword long a
+vadi,/vaː.ˈdi/,long_vowel_lex,Arabic loanword long a
+zaten,/ˈzaː.tʰæn/,long_vowel_lex,Initial long a + obstruent coda
+felaket,/fe.laː.ˈcʰet/,long_vowel_lex,Arabic medial long a + final palatal
+gaziantep,/ɡaː.zi.ˈan.tʰep/,place_name_lex,Sezer penultimate + long a
+salihli,/saː.ˈlih.li/,place_name_lex,penultimate + long a
+ankara,/ˈaŋ.kʰa.ɾa/,place_name_lex,antepenultimate (Sezer cretic)
+adana,/a.ˈda.na/,place_name_lex,penultimate
+akdeniz,/ˈak.de.niz/,compound_initial_stress,first-element stress + velar coda
+akyıldız,/ˈak.jɯɫ.dɯz/,compound_initial_stress,first-element stress + velar coda
+para,/pʰa.ˈɾa/,onset_aspirate,hece-başı p → pʰ
+tepe,/tʰe.ˈpʰe/,onset_aspirate,both onsets aspirate
+kapı,/kʰa.ˈpʰɯ/,onset_aspirate,k+a velar + p aspirate
+kitap,/cʰi.ˈtʰap/,onset_aspirate_palatal,k+i palatal + word-final p no aspire
+görmek,/ɟœɾ.ˈmec/,no_word_final_aspirate,g+ö palatal + word-final c no aspire
+bir,/biɾ̞̊/,r_devoicing,word-final r devoiced
+kart,/kʰaɾ̞̊t/,r_devoicing,r preceding voiceless t
+türk,/tʰyɾ̞̊c/,r_devoicing,t aspirate + r preceding voiceless k
+belli,/bel.ˈli/,no_e_open_lex,n/l-coda lex exception (kapalı /e/)
+elli,/el.ˈli/,no_e_open_lex,l-coda lex exception
+kendi,/cʰen.ˈdi/,no_e_open_lex,palatal aspirate + n-coda lex
+pencere,/pʰeɲ.ˈd͡ʒe.ɾe/,no_e_open_lex,n-coda lex (penultimate stress)
+tencere,/tʰeɲ.ˈd͡ʒe.ɾe/,no_e_open_lex,n-coda lex (penultimate stress)
+mühendis,/my.hen.ˈdis/,no_e_open_lex,n-coda lex
+genç,/ɟeɲt͡ʃ/,no_e_open_lex,n-coda lex monosyllabic
+belki,/ˈbel.cʰi/,no_e_open_lex,l-coda lex + ki pre-accent (penultimate)
+engin,/ˈeɲ.ɟin/,no_e_open_lex,n-coda lex
+cerrah,/d͡ʒeɾ.ˈɾah/,rr_lex_close,rr coda istisnası
+berrak,/beɾ.ˈɾak/,rr_lex_close,rr coda istisnası
+zerrin,/zeɾ.ˈɾin/,rr_lex_close,rr coda istisnası
+elektronik,/e.lek.tʰɾo.ˈnic/,ccv_onset_cluster,/tr/ onset cluster + final palatal
+slovenya,/sɫo.β̞æn.ˈja/,ccv_onset_cluster,/sl/ onset (with dark ɫ) + /æ/ from n-coda
+demokrasi,/de.mo.kʰɾa.ˈsi/,ccv_onset_cluster,/kr/ onset cluster
+trafik,/tʰɾa.ˈfic/,ccv_onset_cluster,/tr/ onset + i palatal final

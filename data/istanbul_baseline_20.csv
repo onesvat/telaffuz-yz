@@ -1,0 +1,21 @@
+id,text,text_type,category,canonical_ipa,canonical_phones,notes
+1,su,word,daily,/su/,s u,"1 hece, açık ünlü"
+2,kapı,word,daily,/kʰa.ˈpʰɯ/,kʰ a ˈ pʰ ɯ,"2 hece, palatal /c/ önyok"
+3,evet,word,daily,/e.ˈvet/,e ˈ v e t,"2 hece, son hece kapalı /e/"
+4,bakkal,word,daily,/bak.ˈkʰaɫ/,b a k ˈ kʰ a ɫ,geminat /kk/ + sonorant /ɫ/
+5,para,word,allophone,/pʰa.ˈɾa/,pʰ a ˈ ɾ a,syllable-initial /pʰ/ aspirasyonu
+6,kalın,word,allophone,/kʰa.ˈɫɯn/,kʰ a ˈ ɫ ɯ n,back vowel + dark /ɫ/
+7,saat,word,long_vowel,/saːt/,s aː t,/aː/ uzun ünlü
+8,şair,word,long_vowel,/ʃa.ˈiɾ̞̊/,ʃ a ˈ i ɾ̞̊,hiatus /ʃa.iɾ/
+9,lokanta,word,stress_loanword,/ˈɫo.kʰan.tʰa/,ˈ ɫ o kʰ a n tʰ a,ilk hece stres (loanword)
+10,spor,word,cluster,/is.ˈpʰoɾ̞̊/,i s ˈ pʰ o ɾ̞̊,word-initial CC kümesi
+11,Bugün hava çok güzel.,sentence,daily,/bu.ˈɟyn ha.ˈva t͡ʃok ɟy.ˈzæl/,b u ˈ ɟ y n <spc> h a ˈ v a <spc> t͡ʃ o k <spc> ɟ y ˈ z æ l,doğal tempo
+12,Lütfen kapıyı kapatır mısın.,sentence,daily,/lyt.ˈfæn kʰa.pʰɯ.ˈjɯ kʰa.pʰa.ˈtʰɯɾ̞̊ mɯ.ˈsɯn/,l y t ˈ f æ n <spc> kʰ a pʰ ɯ ˈ j ɯ <spc> kʰ a pʰ a ˈ tʰ ɯ ɾ̞̊ <spc> m ɯ ˈ s ɯ n,günlük rica kalıbı
+13,Şair kâğıda şiir yazdı.,sentence,allophone_rich,/ʃa.ˈiɾ̞̊ kʰaː.ɯ.ˈda ʃi.ˈiɾ̞̊ jaz.ˈdɯ/,ʃ a ˈ i ɾ̞̊ <spc> kʰ aː ɯ ˈ d a <spc> ʃ i ˈ i ɾ̞̊ <spc> j a z ˈ d ɯ,uzun ünlü + ʃ + ɾ
+14,Pencerenin önünde küçük bir kedi var.,sentence,allophone_rich,/pʰæɲ.d͡ʒe.ɾe.ˈnin œ.nyn.ˈde cʰy.ˈt͡ʃyc biɾ̞̊ cʰe.ˈdi vaɾ̞̊/,pʰ æ ɲ d͡ʒ e ɾ e ˈ n i n <spc> œ n y n ˈ d e <spc> cʰ y ˈ t͡ʃ y c <spc> b i ɾ̞̊ <spc> cʰ e ˈ d i <spc> v a ɾ̞̊,"palatal c+y, ɲ"
+15,Para harcamayı sevmem.,sentence,allophone_rich,/pʰa.ˈɾa haɾ.ˈd͡ʒa.ma.jɯ ˈsev.mæm/,pʰ a ˈ ɾ a <spc> h a ɾ ˈ d͡ʒ a m a j ɯ <spc> ˈ s e v m æ m,pʰ + r-devoicing
+16,"Şu an geliyor mu, gelmiyor mu?",sentence,stress_preaccent,/ʃu an ˈɟe.li.joɾ̞̊ mu ˈɟæl.mi.joɾ̞̊ mu/,ʃ u <spc> a n <spc> ˈ ɟ e l i j o ɾ̞̊ <spc> m u <spc> ˈ ɟ æ l m i j o ɾ̞̊ <spc> m u,-iyor stres + -me pre-accent
+17,Babam kapkara kaşlarıyla dikiliyordu.,sentence,stress_preaccent,/ba.ˈbam ˈkʰap.kʰa.ɾa kʰaʃ.ɫa.ˈɾɯj.ɫa di.ˈcʰi.li.joɾ.du/,b a ˈ b a m <spc> ˈ kʰ a p kʰ a ɾ a <spc> kʰ a ʃ ɫ a ˈ ɾ ɯ j ɫ a <spc> d i ˈ cʰ i l i j o ɾ d u,pekiştirme + -iyor
+18,Eve gitmedim çünkü çalışıyordum.,sentence,stress_preaccent,/e.ˈve ˈɟit.me.dim ˈt͡ʃyɲ.cʰy t͡ʃa.ˈɫɯ.ʃɯ.joɾ.dum/,e ˈ v e <spc> ˈ ɟ i t m e d i m <spc> ˈ t͡ʃ y ɲ cʰ y <spc> t͡ʃ a ˈ ɫ ɯ ʃ ɯ j o ɾ d u m,-me + -iyor
+19,"Şu köşe yaz köşesi, şu köşe kış köşesi.",sentence,tongue_twister,/ʃu cʰœ.ˈʃe jaz cʰœ.ʃe.ˈsi ʃu cʰœ.ˈʃe kʰɯʃ cʰœ.ʃe.ˈsi/,ʃ u <spc> cʰ œ ˈ ʃ e <spc> j a z <spc> cʰ œ ʃ e ˈ s i <spc> ʃ u <spc> cʰ œ ˈ ʃ e <spc> kʰ ɯ ʃ <spc> cʰ œ ʃ e ˈ s i,ş + k tekrar
+20,Saksıda saksağan suskunca dururdu.,sentence,tongue_twister,/sak.sɯ.ˈda sak.sa.ˈan sus.kʰuɲ.ˈd͡ʒa du.ɾuɾ.ˈdu/,s a k s ɯ ˈ d a <spc> s a k s a ˈ a n <spc> s u s kʰ u ɲ ˈ d͡ʒ a <spc> d u ɾ u ɾ ˈ d u,s + ŋ + ɾ klaster

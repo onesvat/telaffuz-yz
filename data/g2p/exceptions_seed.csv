@@ -1,0 +1,344 @@
+word,phonemes,ipa_detail,type,suffix_behavior,status,source,notes
+AB,aː b eː,aː.ˈbeː,manual,preserve,manual_verified,curated,case-sensitive acronym
+ab,aː b,ˈaːb,manual,none,gemini_verified,gemini-3.1-pro-preview,Persian loanword; keep distinct from uppercase AB acronym
+ababiyet,a b aː b i j e t,a.baː.bi.ˈjet,long_vowel,none,gemini_verified,gemini-3.1-pro-preview,Arabic loanword with long vowel in second syllable
+abdesthane,a b d e s t h aː n e,ab.dest.haː.ˈne,long_vowel,none,gemini_verified,gemini-3.1-pro-preview,Persian hane compound with long a
+adalet,a d aː l æ t,adaːlæt,manual,none,manual_verified,curated,
+adalettin,a d aː l e t t i n,adaːlettin,manual,none,manual_verified,curated,
+adana,a d a n a,aˈdana,place_name,apply,manual_verified,curated,Penultimate (Sezer)
+adap,aː d a p,aː.ˈdap,long_vowel,none,gemini_verified,gemini-3.1-pro-preview,Arabic loanword with unmarked long initial a
+adriyatik denizi,a d ɾ i j a t i k d e n i z i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+adriyatik denizi'ni,a d ɾ i j a t i k d e n i z i n i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+adriyatik denizi'nin,a d ɾ i j a t i k d e n i z i n i n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+AFAD,aː f a d,aːfad,manual,none,manual_verified,curated,
+afrikanca,a f ɾ i k a n d͡ʒ a,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+afyonkarahisar,a f j o n k a ɾ a h i s a ɾ,afjonkaɾahiˈsaɾ,place_name,apply,manual_verified,curated,Final stress: -hisar special compound
+agâh,aː ɡ j a h,aːɡjah,manual,preserve,manual_verified,curated,
+ahenk,aː h e ɲ c,aː.ˈheɲc,long_vowel,none,gemini_verified,gemini-3.1-pro-preview,Long initial a and palatal nk in standard pronunciation
+ahi,a h iː,ahiː,manual,preserve,manual_verified,curated,
+ahir,aː h i ɾ,aː.ˈhiɾ,long_vowel,none,gemini_verified,gemini-3.1-pro-preview,Arabic loanword with unmarked long initial a
+ahize,aː h i z e,aː.hi.ˈze,long_vowel,none,gemini_verified,gemini-3.1-pro-preview,Arabic loanword with unmarked long initial a
+ahkâm,a h c aː m,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+ahududu,aː h u d u d u,aː.ˈhu.du.du,long_vowel,none,gemini_verified,gemini-3.1-pro-preview,Gemini adjudicated Wiktionary and rule output as incomplete; long a and first-element stress
+aile,aː i l e,aː.i.ˈle,long_vowel,preserve,gemini_verified,gemini-3.1-pro-preview,Arabic loanword; preserve long initial a in suffixed forms
+ait,aː i t,aː.ˈit,long_vowel,none,gemini_verified,gemini-3.1-pro-preview,Arabic loanword with unmarked long initial a
+aişe,a j ʃ e,aj.ˈʃe,manual,none,manual_verified,curated,Proper name pronounced like Ayşe
+ak yıldız,a c j ɯ l d ɯ z,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+akamet,a k aː m e t,a.kaː.ˈmet,long_vowel,none,gemini_verified,gemini-3.1-pro-preview,Arabic loanword with long vowel in second syllable
+akdeniz,a k d e n i z,ˈak.de.niz,place_name,apply,manual_verified,curated,Compound (ak+deniz) first-element stress; /k/ velar (a back vowel)
+akdeniz'i,a c d e n i z i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+akdeniz'in,a c d e n i z i n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+akgül,a c ɡ y l,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+akif,aː c i f,aːcif,manual,preserve,manual_verified,curated,
+akife,aː c i f e,aː.ˈci.fe,long_vowel,preserve,manual_verified,curated,Proper name derived from Akif with preserved long initial a
+akli,a k l iː,ak.ˈliː,long_vowel,none,gemini_verified,gemini-3.1-pro-preview,Arabic nisba adjective with long final i
+akyıldız,a k j ɯ ɫ d ɯ z,ˈak.jɯɫ.dɯz,place_name,apply,manual_verified,curated,Compound (ak+yıldız) first-element stress; /k/ velar; surname/place
+akyıldız'ı,a c j ɯ l d ɯ z ɯ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+akyıldız'ın,a c j ɯ l d ɯ z ɯ n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+alet,aː l e t,aː.ˈlet,long_vowel,preserve,gemini_verified,gemini-3.1-pro-preview,Arabic loanword with preserved long initial a
+alevi,a l e v iː,aleviː,manual,preserve,manual_verified,curated,
+aleyhisselam,a l e j h i s s e l aː m,a.lej.his.se.ˈlaːm,long_vowel,none,gemini_verified,gemini-3.1-pro-preview,Arabic formula with clear l and long final a
+alkol,a l k o l,alkol,thin_l,none,manual_verified,curated,
+altüst,a ɫ t y s t,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+alâmet,a l aː m e t,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+amal,aː m a l,aː.ˈmal,long_vowel,none,gemini_verified,gemini-3.1-pro-preview,Arabic loanword with long initial a
+amb,aː m eː b eː,aːmeːbeː,manual,preserve,manual_verified,curated,
+amcazade,a m d͡ʒ a z aː d e,am.d͡ʒa.zaː.ˈde,long_vowel,none,gemini_verified,gemini-3.1-pro-preview,Persian -zade suffix with long a
+amerika,a m e ɾ i k a,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+amerika birleşik devletleri,a m e ɾ i k a b i ɾ l e ʃ i k d e v l e t l e ɾ i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+amerika birleşik devletleri'ni,a m e ɾ i k a b i ɾ l e ʃ i k d e v l e t l e ɾ i n i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+amerika birleşik devletleri'nin,a m e ɾ i k a b i ɾ l e ʃ i k d e v l e t l e ɾ i n i n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+ana cermence,a n a d͡ʒ e ɾ m e n d͡ʒ e,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+ana türkçe,a n a t y ɾ c t͡ʃ e,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+ankara,a n k a ɾ a,ˈankaɾa,place_name,apply,manual_verified,curated,Antepenult (Sezer cretic)
+anlayabilmek,a n l ɯ j a b i l m e k,anlɯjabilmek,narrowing,none,manual_verified,curated,
+anne,a n n e,anˈne,no_e_open,apply,manual_verified,curated,Lex closed /e/ at hece boundary
+annemler,a n n e m l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+antarktik,a n t a ɾ c t i c,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+antigua,a n t i ɡ u a,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+antigua'sı,a n t i ɡ u a s ɯ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+apaçık,a p a t͡ʃ ɯ k,ˈapat͡ʃɯk,stress,none,manual_verified,curated,
+arayacak,a ɾ ɯ j ɯ d͡ʒ a k,aɾɯjɯd͡ʒak,narrowing,none,manual_verified,curated,
+arktik,a ɾ c t i c,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+ASCII,a s k i,ˈaski,manual,none,manual_verified,curated,Conventional acronym pronunciation
+atatürk,a t a t y ɾ c,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+açelya,a t͡ʃ e l j a,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+açelyalar,a t͡ʃ e l j a l a ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+ağız,aː ɯ z,aːˈɯz,long_vowel,preserve,manual_verified,curated,Starlang ağ+yHz misparse workaround; back-back soft-g lengthening + standart final stres
+aşk,a ʃ c,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+aşkın,a ʃ c ɯ n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+basit kelimeyi,b a s i t k e l i m e j i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+bazı,b aː z ɯ,baːzɯ,long_vowel,none,manual_verified,curated,
+bağımlılık enjeksiyonları,b a ɯ m ɫ ɯ ɫ ɯ k e n ʒ e c s i j o n ɫ a ɾ ɯ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+başlayan,b a ʃ l ɯ j a n,baʃlɯjan,narrowing,none,manual_verified,curated,
+bebeğe,b e b eː e,bebeɣe,mutation,none,manual_verified,curated,
+behemehâl,b e h e m e h aː l,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+bekleyeceğim,b e k l e j i d͡ʒ eː m,beklejid͡ʒeːm,narrowing,none,manual_verified,curated,
+bekleyen,b e k l i j æ n,beklijæn,narrowing,none,manual_verified,curated,
+bela,b e l aː,belaː,long_vowel,none,manual_verified,curated,
+belirlenmez,b e l i ɾ l e n m e z,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+belki,b e l c i,ˈbelci,no_e_open,apply,manual_verified,curated,Lex closed /e/; ki suffix pre-accent
+bellek,b e l l e c,belˈlec,no_e_open,apply,manual_verified,curated,Lex closed /e/
+belli,b e l l i,belˈli,no_e_open,apply,manual_verified,curated,Lex closed /e/; geminate ll coda
+bembeyaz,b æ m b e j a z,ˈbæmbejaz,stress,none,manual_verified,curated,
+bencil,b e n d͡ʒ i l,benˈd͡ʒil,no_e_open,apply,manual_verified,curated,Lex closed /e/
+bengi,b e n ɟ i,ˈbenɟi,no_e_open,apply,manual_verified,curated,Lex closed /e/
+bengü,b e n ɟ y,ˈbenɟy,no_e_open,apply,manual_verified,curated,Lex closed /e/
+beraber,b e ɾ aː b e ɾ,beɾaːbeɾ,long_vowel,none,manual_verified,curated,
+berrak,b e ɾ ɾ a k,berˈrak,no_e_open,apply,manual_verified,curated,Geminate rr — /e/ closed
+berrin,b e ɾ ɾ i n,berˈrin,no_e_open,apply,manual_verified,curated,Geminate rr — /e/ closed (proper name)
+beş vakit namaz,b e ʃ v a k i t n a m a z,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+bilgisayar,b i l ɟ i s a j a ɾ,ˈbilɟisajaɾ,stress,none,manual_verified,curated,
+birçok,b i ɾ t͡ʃ o k,ˈbiɾt͡ʃok,stress,none,manual_verified,curated,
+bosna-hersekli'si,b o s n a h e ɾ s e k l i s i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+böyle,b œː l e,bœːle,y_weakening,none,manual_verified,curated,
+canberk,d͡ʒ a n b e ɾ c,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+cani,d͡ʒ aː n i,d͡ʒaːˈni,long_vowel,apply,manual_verified,curated,Arabic long a
+cerrah,d͡ʒ e ɾ ɾ a h,d͡ʒerˈrah,no_e_open,apply,manual_verified,curated,Geminate rr — /e/ closed (Arabic loanword)
+cevvâl,d͡ʒ e v v aː l,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+cüretkâr,d͡ʒ y ɾ e t c aː ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+daha,d a h a,daˈha,manual,none,manual_verified,curated,Formal pronunciation /daha/ with h retained; colloquial /daːa/ rejected for training
+dava,d a v aː,davaː,long_vowel,none,manual_verified,curated,
+denge,d e n ɟ e,ˈdenɟe,no_e_open,apply,manual_verified,curated,Lex closed /e/
+dinsizlik,d i n s i z l i k,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+disleksi,d i s l e k s i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+diyabetik,d i j a b e t i k,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+diyecek,d iː j e d͡ʒ e k,diːjed͡ʒek,irregular_narrowing,none,manual_verified,curated,
+diyen,d iː j e n,diːjen,irregular_narrowing,none,manual_verified,curated,
+diyor,d i j o ɾ,dijoɾ,irregular_narrowing,none,manual_verified,curated,
+doğangiller,d o a n ɡ i l l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+efkar,e f k aː ɾ,efˈkaːɾ,long_vowel,apply,manual_verified,curated,Arabic long final a; k velar (a back)
+elatif hâli,e l a t i f h aː ɫ i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+elektron mikroskobu,e l e k t ɾ o n m i k ɾ o s k o b u,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+elli,e l l i,elˈli,no_e_open,apply,manual_verified,curated,Lex closed /e/ (number 50)
+engin,e n ɟ i n,ˈenɟin,no_e_open,apply,manual_verified,curated,Lex closed /e/ (eksisözlük canonical example)
+eski norsça,e s k i n o ɾ s t͡ʃ a,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+eskişehir,e s c i ʃ e h i ɾ,escişeˈhiɾ,place_name,apply,manual_verified,curated,Penultimate
+evanjelikalizm,e v a n ʒ e l i k a l i z m,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+fare,f aː ɾ e,faːˈɾe,long_vowel,apply,manual_verified,curated,Arabic loanword long a
+felaket,f e l aː c e t,felaːˈcet,long_vowel,apply,manual_verified,curated,Arabic long a in 2nd; final c palatal (next i was front)
+galaksi grubu,ɡ a ɫ a k s i ɡ ɾ u b u,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+galaksi grubunu,ɡ a ɫ a k s i ɡ ɾ u b u n u,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+galaksi grubunun,ɡ a ɫ a k s i ɡ ɾ u b u n u n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+gayri metlüv,ɡ a j ɾ i m e t l y v,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+gazete,ɡ a z e t e,ˈɡazete,stress,none,manual_verified,curated,
+gaziantep,ɡ aː z i a n t e p,ɡaːziˈantep,place_name,apply,manual_verified,curated,Penultimate + long initial a
+gazipaşa,ɡ aː z i p a ʃ a,ɡaːziˈpaʃa,place_name,apply,manual_verified,curated,Penultimate + long initial a
+geleceğim,ɟ e l i d͡ʒ eː m,ɟelid͡ʒeːm,narrowing,none,manual_verified,curated,
+genç,ɟ e n t͡ʃ,ɟent͡ʃ,no_e_open,apply,manual_verified,curated,Lex closed /e/ (canonical eksisözlük example)
+gidiyor,ɟ i d i j o,ɟidijo,yor_r_dropping,none,manual_verified,curated,
+gidiyordum,ɟ i d i j o d u m,ɟidijodum,yor_r_dropping,none,manual_verified,curated,
+gidiyorum,ɟ i d i j o ɾ u m,ɟidijoɾum,yor_r_dropping,none,manual_verified,curated,
+gidiyoruz,ɟ i d i j o ɾ u z,ɟidijoɾuz,yor_r_dropping,none,manual_verified,curated,
+gol,ɡ o l,ɡol,thin_l,none,manual_verified,curated,
+gram,ɡ ɯ ɾ a m,ɡɯɾam,epenthesis,none,manual_verified,curated,
+grup,ɡ u ɾ u p,ɡuɾup,epenthesis,none,manual_verified,curated,
+göbeklitepe,ɟ œ b e c l i t e p e,ɟœbecliˈtepe,place_name,apply,manual_verified,curated,Penultimate
+görecek,ɟ œ ɾ y d͡ʒ e c,ɟœɾyd͡ʒec,narrowing,none,manual_verified,curated,
+hafız,h aː f ɯ z,ˈhaːfɯz,long_vowel,apply,manual_verified,curated,Arabic; long a + initial stress (Sezer cretic)
+halife,h a l iː f e,haliːˈfe,long_vowel,apply,manual_verified,curated,Arabic long i in 2nd syllable
+hane,h aː n e,haːne,manual,none,manual_verified,curated,
+haydi,h aː d i,haːdi,y_weakening,none,manual_verified,curated,
+helyosfer,h e l j o s f e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+hem,h e m,hem,no_e_open,apply,manual_verified,curated,Lex closed /e/ monosyllabic
+hiç yoktan iyidir,h i t͡ʃ j o k t a n i j i d i ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+hol,h o l,hol,thin_l,none,manual_verified,curated,
+hâlâ,h aː l aː,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+ibadet,i b aː d e t,ibaːˈdet,long_vowel,apply,manual_verified,curated,Arabic long a in 2nd syllable; final t obstruent → /e/
+ibâdîler,i b aː d iː l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+idare,i d aː ɾ e,idaːˈɾe,long_vowel,apply,manual_verified,curated,Arabic long a in 2nd syllable
+iffetler,i f e t l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+iftitah tekbirleri,i f t i t a h t e k b i ɾ l e ɾ i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+iftitah tekbirlerin,i f t i t a h t e k b i ɾ l e ɾ i n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+iftitah tekbirlerini,i f t i t a h t e k b i ɾ l e ɾ i n i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+iftitah tekbirlerinin,i f t i t a h t e k b i ɾ l e ɾ i n i n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+ima,iː m aː,iːˈmaː,long_vowel,apply,manual_verified,curated,Arabic double long
+ingilizce,i n ɡ i l i z d͡ʒ e,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+ingilizler,i n ɡ i l i z l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+ingiltere,i n ɡ i l t e ɾ e,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+ingiltereli,i n ɡ i l t e ɾ e l i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+irem,i ɾ e m,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+istanbul,i s t a n b u l,ˈistanbul,stress,none,manual_verified,curated,
+itibar,iː t i b aː ɾ,iːtibaːɾ,long_vowel,apply,manual_verified,curated,Arabic double long: iː first + aː final
+iyi,iː i,iːi,y_weakening,none,manual_verified,curated,
+kabul et,k a b u ɫ e t,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+kabul etme,k a b u ɫ e t m e,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+kabul etmeme,k a b u ɫ e t m e m e,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+kabul etmememe,k a b u ɫ e t m e m e m e,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+kabul etmesi,k a b u ɫ e t m e s i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+kabul etmeyi,k a b u ɫ e t m e j i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+kahve,k aː v e,kaːve,h_contraction,none,manual_verified,curated,
+kanun,k aː n u n,kaːˈnun,long_vowel,apply,manual_verified,curated,Arabic long a; k velar (a back)
+karadeniz,k a ɾ a d e n i z,ˈkaɾadeniz,place_name,apply,manual_verified,curated,Compound (kara+deniz) first-element stress
+kat'î,c a t iː,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+katil,k aː t i l,kaːˈtil,long_vowel,apply,manual_verified,curated,Arabic long a
+kendi,c e n d i,cenˈdi,no_e_open,apply,manual_verified,curated,Lex closed /e/; majority pronounces with /æ/ but standard is /e/
+kimyevî bileşikler,c i m j e v iː b i l e ʃ i c l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+kitaba,k i t a b a,kitaba,mutation,none,manual_verified,curated,
+kitap,k i t a p,kitap,mutation,none,manual_verified,curated,
+kokluyor,k o k l u j o ɾ,koklujoɾ,narrowing,none,manual_verified,curated,
+koroner yoğun bakım,k o ɾ o n e ɾ j o u n b a k ɯ m,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+koroner yoğun bakım ünitesi,k o ɾ o n e ɾ j o u n b a k ɯ m y n i t e s i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+kral,k ɯ ɾ a l,kɯɾal,epenthesis,none,manual_verified,curated,
+kur'an müslümanlığı,k u ɾ a n m y s l y m a n ɫ ɯ ɯ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+kur'an müslümanı,k u ɾ a n m y s l y m a n ɯ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+kuracak,k u ɾ u d͡ʒ a k,kuɾud͡ʒak,narrowing,none,manual_verified,curated,
+kuzey amerika,k u z e j a m e ɾ i k a,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+kâgir,c aː ɡ i ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+kâinat,c aː i n a t,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+kâmiller,c aː m i l l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+kâr,c aː ɾ,caːɾ,long_vowel,none,manual_verified,curated,
+kâseler,c aː s e l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+kâğıthane,c aː ɯ t h a n e,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+küresel ısınma,c y ɾ e s e l ɯ s ɯ n m a,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+kütüphane,k y t y p h aː n e,kytyphaːne,manual,none,manual_verified,curated,
+kütüphanesi,c y t y p h aː n e s i,cytyphaːneˈsi,long_vowel,apply,manual_verified,curated,Possessive form
+kütüphanesinde,c y t y p h aː n e s i n d e,cytyphaːneˈsinde,long_vowel,apply,manual_verified,curated,Locative form
+latince,ɫ a t i n d͡ʒ e,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+lazım,l aː z ɯ m,laː.ˈzɯm,long_vowel,none,manual_verified,curated,Common spelling without circumflex keeps long a
+lokanta,l o k a n t a,ˈlokanta,stress,none,manual_verified,curated,
+lüksemburgca,l y k s e m b u ɾ ɡ d͡ʒ a,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+mabed,m aː b e d,maːˈbed,long_vowel,apply,manual_verified,curated,Arabic long a; final d obstruent → /e/
+mahalle,m aː l e,maːle,h_contraction,none,manual_verified,curated,
+malaya-polinezya dili,m a ɫ a j a p o l i n e z j a d i l i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+mana,m aː n a,maːna,long_vowel,none,manual_verified,curated,
+marmara,m a ɾ m a ɾ a,ˈmaɾmaɾa,stress,none,manual_verified,curated,
+mavi,m aː v i,maːˈvi,long_vowel,apply,manual_verified,curated,Arabic loanword long a
+melanezya,m e l a n e z j a,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+merkezîleşmek,m e ɾ k e z iː l e ʃ m e k,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+merkezîleştirmek,m e ɾ k e z iː l e ʃ t i ɾ m e k,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+meşâik,m e ʃ aː i k,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+mimar,m i m aː ɾ,miˈmaːɾ,long_vowel,apply,manual_verified,curated,Arabic long final a
+moğolistan,m o o ɫ i s t a n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+muhabere,m u h aː b e ɾ e,muhaːbeˈɾe,long_vowel,apply,manual_verified,curated,Arabic long a in 2nd syllable
+muhafaza,m u h aː f a z a,muhaːfaˈza,long_vowel,apply,manual_verified,curated,Arabic long a in 2nd syllable
+musevi,m uː s e v iː,muːseˈviː,long_vowel,apply,manual_verified,curated,Hebrew/Arabic long u + long i
+mustafa ile,m u s t a f a j l a,mustafajla,clitic,none,manual_verified,curated,
+mühendis,m y h e n d i s,myhenˈdis,no_e_open,apply,manual_verified,curated,Lex closed /e/; final-stress default
+mürsel hadis,m y ɾ s e l h a d i s,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+müzakere,m y z aː c e ɾ e,myzaːceˈɾe,long_vowel,apply,manual_verified,curated,Arabic long a; c palatal (e front next)
+NATO,n a t o,nato,manual,none,manual_verified,curated,
+nedime,n e d iː m e,nediːˈme,long_vowel,apply,manual_verified,curated,Arabic long i
+olmak ya da olmamak,o ɫ m a c j a d a o ɫ m a m a c,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+park yeri,p a ɾ c j e ɾ i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+park yerinde,p a ɾ c j e ɾ i n d e,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+park yerine,p a ɾ c j e ɾ i n e,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+park yerini,p a ɾ c j e ɾ i n i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+park yerinin,p a ɾ c j e ɾ i n i n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+paskalya,p a s k a l j a,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+pencere,p e n d͡ʒ e ɾ e,penˈd͡ʒeɾe,no_e_open,apply,manual_verified,curated,Lex closed /e/; penultimate stress
+pensilvanya,p e n s i l v a n j a,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+pentekost,p e n t e k o s t,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+postane,p o s t h aː n e,posthaːne,manual,none,manual_verified,curated,
+prens,p i ɾ æ n s,piɾæns,epenthesis,none,manual_verified,curated,
+rol,ɾ o l,ɾol,thin_l,none,manual_verified,curated,
+roman,ɾ o m a n,ˈɾoman,stress,none,manual_verified,curated,
+rüzgarlı,ɾ y z ɟ a ɾ l ɯ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+saat,s aː t,saːt,long_vowel,none,manual_verified,curated,
+sabah,s a b a h,saˈbah,manual,none,manual_verified,curated,Formal pronunciation /sabah/ with h retained; colloquial /sabaː/ rejected
+sabit,s aː b i t,saːbit,long_vowel,none,manual_verified,curated,
+sahil,s aː h i l,saːˈhil,long_vowel,none,manual_verified,curated,Arabic loanword; long a + h retained (formal)
+salihli,s aː l i h l i,saːˈlihli,place_name,apply,manual_verified,curated,Penultimate + long initial a
+samsun,s a m s u n,ˈsamsun,stress,none,manual_verified,curated,
+satın almak,s a t ɯ n a ɫ m a c,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+sağlığım,s aː ɫ ɯː m,saː.ˈɫɯːm,manual,none,manual_verified,curated,Contraction of sağlığım with soft-g lengthening across possessive suffix
+seksî,s e k s iː,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+sergüzeşt,s e ɾ ɟ y z e ʃ t,seɾɟyˈzeʃt,manual,apply,manual_verified,curated,Persian loanword; no long vowel but final stress; obstruent codas keep /e/
+sermayedar,s e ɾ m aː j e d aː ɾ,seɾmaːjeˈdaɾ,long_vowel,apply,manual_verified,curated,Persian compound -dar with long a
+sevecek,s e v i d͡ʒ e k,sevid͡ʒek,narrowing,none,manual_verified,curated,
+sicilyaca,s i d͡ʒ i l j a d͡ʒ a,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+simmering'i,s i m m e ɾ i n ɡ i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+simsiyah,s i m s i j a h,ˈsimsijah,stress,none,manual_verified,curated,
+sinema,s i n e m a,ˈsinema,stress,none,manual_verified,curated,
+sokağa,s o k aː a,sokaɣa,mutation,none,manual_verified,curated,
+somali,s o m a ɫ i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+somalice,s o m a ɫ i d͡ʒ e,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+somalicesi,s o m a ɫ i d͡ʒ e s i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+somaliceyi,s o m a ɫ i d͡ʒ e j i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+somalili,s o m a ɫ i l i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+sonra,s oː ɾ a,soːɾa,special,none,manual_verified,curated,
+spor,i s p o ɾ,ispoɾ,epenthesis,none,manual_verified,curated,
+söyle,s œː l e,sœːle,y_weakening,none,manual_verified,curated,
+söylüyor,s œː l y j o ɾ,sœːlyjoɾ,narrowing,none,manual_verified,curated,
+süleymaniye,s y l e j m aː n i j e,sylejmaːˈnije,place_name,apply,manual_verified,curated,Penultimate + long medial a
+ta'arruz,t a a ɾ ɾ u z,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+tabii bilimler,t a b i i b i l i m l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+tabii ilimler,t a b i i i l i m l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+tanımlığa,tʰ a n ɯ m ɫ ɯ a,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+tanımlığı,tʰ a n ɯ m ɫ ɯ ɯ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+tanımlığın,tʰ a n ɯ m ɫ ɯ ɯ n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+teamül,t e aː m y l,teaːˈmyl,long_vowel,apply,manual_verified,curated,Arabic long a (vowel-vowel boundary)
+tekerrür,t e c e ɾ ɾ y ɾ,tecerˈryɾ,no_e_open,apply,manual_verified,curated,Geminate rr in 2nd syllable
+tel şehriye,t e l ʃ e h ɾ i j e,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+tencere,t e n d͡ʒ e ɾ e,tenˈd͡ʒeɾe,no_e_open,apply,manual_verified,curated,Lex closed /e/; penultimate stress
+tevafuk,t e v aː f u k,tevaːˈfuk,long_vowel,apply,manual_verified,curated,Arabic long a
+ticaret,t i d͡ʒ aː ɾ e t,tid͡ʒaːˈɾet,long_vowel,apply,manual_verified,curated,Arabic long a in 2nd syllable
+toki,t o k i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+trabzon,t ɾ a b z o n,ˈtɾabzon,place_name,apply,manual_verified,curated,Initial stress
+troçkizm,t ɾ o t͡ʃ k i z m,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+tâbiîn,t aː b i iː n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+TÜBİTAK,t y b i t a k,tybitak,manual,none,manual_verified,curated,
+türk,t y ɾ c,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+türklük,t y ɾ c l y c,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+türkmen,t y ɾ c m e n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+türkmence,t y ɾ c m e n d͡ʒ e,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+türkmencesi,t y ɾ c m e n d͡ʒ e s i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+türkmenli,t y ɾ c m e n l i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+türkân,t y ɾ c aː n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+türkânlar,t y ɾ c aː n l a ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+türkçe,t y ɾ k t͡ʃ e,ˈtyɾkt͡ʃe,stress,none,manual_verified,curated,
+uzay teleskopları,u z a j t e l e s c o p l a ɾ ɯ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+uzay teleskopların,u z a j t e l e s c o p l a ɾ ɯ n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+uzay teleskoplarını,u z a j t e l e s c o p l a ɾ ɯ n ɯ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+uzay teleskoplarının,u z a j t e l e s c o p l a ɾ ɯ n ɯ n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+vadi,v aː d i,vaːˈdi,long_vowel,apply,manual_verified,curated,Arabic long a
+vazife,v a z iː f e,vaziːˈfe,long_vowel,apply,manual_verified,curated,Arabic long i
+vefa,v e f aː,vefaː,long_vowel,none,manual_verified,curated,
+yapacağız,j a p ɯ d͡ʒ aː z,japɯd͡ʒaːz,narrowing,none,manual_verified,curated,
+yiyici,j iː j i d͡ʒ i,jiːjid͡ʒi,irregular_narrowing,none,manual_verified,curated,
+yürüyecek,j y ɾ yː d͡ʒ e k,jyɾyːd͡ʒek,narrowing,none,manual_verified,curated,
+zabit,z aː b i t,zaːbit,long_vowel,none,manual_verified,curated,
+zalim,z aː l i m,zaːlim,long_vowel,none,manual_verified,curated,
+zaten,z aː t e n,ˈzaːten,long_vowel,apply,manual_verified,curated,Arabic long a; initial stress; final t obstruent → /e/
+zerdüşt,z e ɾ d y ʃ t,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+zerdüştlük,z e ɾ d y ʃ t l y c,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+zerdüştlükler,z e ɾ d y ʃ t l y k l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+zerdüştçü,z e ɾ d y ʃ t t͡ʃ y,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+zerdüştçülük,z e ɾ d y ʃ t t͡ʃ y l y c,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+zeren,z e ɾ e n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+zerrin,z e ɾ ɾ i n,zerˈrin,no_e_open,apply,manual_verified,curated,Geminate rr — /e/ closed
+zeydîler,z e j d iː l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+âdem,aː d e m,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+âdemler,aː d e m l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+çanakkale,t͡ʃ a n a k k a l e,t͡ʃanakˈkale,place_name,apply,manual_verified,curated,Penultimate
+çekici,t͡ʃ e k i d͡ʒ i,t͡ʃekid͡ʒi,mutation,none,manual_verified,curated,
+çekler,t͡ʃ e c l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+çeklerde,t͡ʃ e c l e ɾ d e,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+çeklerden,t͡ʃ e c l e ɾ d e n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+çeküller,t͡ʃ e c y l l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+çerkeş,t͡ʃ e ɾ c e ʃ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+çetinler,t͡ʃ e t i n l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+çimen,t͡ʃ i m e n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+çimencik,t͡ʃ i m e n d͡ʒ i c,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+çimendere,t͡ʃ i m e n d e ɾ e,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+çimendereli,t͡ʃ i m e n d e ɾ e l i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+çimendereliler,t͡ʃ i m e n d e ɾ e l i l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+çimenderelilik,t͡ʃ i m e n d e ɾ e l i l i c,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+çocuğa,t͡ʃ o d͡ʒ uː a,t͡ʃod͡ʒuɣa,mutation,none,manual_verified,curated,
+ömer'i,œ m æ ɾ i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+ömer'in,œ m æ ɾ i n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+ömerler'i,œ m æ ɾ l æ ɾ i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+ömerler'in,œ m æ ɾ l æ ɾ i n,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+örnekler,œ ɾ n e c l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+örnekliler,œ ɾ n e c l i l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+öyle ise,œ j l e j s e,œjlejse,clitic,none,manual_verified,curated,
+öğreteceğiz,œː ɾ e t i d͡ʒ eː z,œːɾetid͡ʒeːz,narrowing,none,manual_verified,curated,
+üsküpler,y s c y p l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+şer'î delil,ʃ e ɾ iː d e l i l,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+şer'î delili,ʃ e ɾ iː d e l i l i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+şer'î deliller,ʃ e ɾ iː d e l i l l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+şer'î delilli,ʃ e ɾ iː d e l i l l i,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+şer'î delilsiz,ʃ e ɾ iː d e l i l s i z,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+şimşekler,ʃ i m ʃ e c l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+şiîler,ʃ i iː l e ɾ,,gemini-adjudicated,apply,active,gemini-2.5-pro,Wiktionary IPA adjudicated as correct
+şöyle,ʃ œː l e,ʃœːle,y_weakening,none,manual_verified,curated,

@@ -1,0 +1,21 @@
+prompt_id	prompt_type	target_text	display_reading_text	canonical_ipa	intended_wrong_ipa	error_rule_id	minimal_pair_id	focus_phonemes	read_mode	intended_error	focus_category	difficulty	speaker_instruction_tr	error_explanation_tr	why_selected_tr	source_refs	scoring_scope	is_scored	expected_human_note
+demo01_ok	word	dede	dede	/de.ˈde/					natural	none	demo	kolay	Kelimeyi doğal Türkçe telaffuzuyla okuyun.	none		DEMO-STATIC	word	true	none
+demo01_err	word	dede	dede	/de.ˈde/	/tʰe.ˈtʰe/	voicing_devoice			error	voicing_devoice	demo	kolay	Kelimeyi 'tete' gibi okuyun: d seslerini sert, ötümsüz t olarak çıkarın.	d→t: ötümlü patlamalı ötümsüzleşiyor		DEMO-STATIC	word	true	none
+demo02_ok	word	baba	baba	/ba.ˈba/					natural	none	demo	kolay	Kelimeyi doğal Türkçe telaffuzuyla okuyun.	none		DEMO-STATIC	word	true	none
+demo02_err	word	baba	baba	/ba.ˈba/	/pʰa.ˈpʰa/	voicing_devoice			error	voicing_devoice	demo	kolay	Kelimeyi 'papa' gibi okuyun: b seslerini sert, ötümsüz p olarak çıkarın.	b→p: ötümlü patlamalı ötümsüzleşiyor		DEMO-STATIC	word	true	none
+demo03_ok	word	kapı	kapı	/kʰa.ˈpʰɯ/					natural	none	demo	kolay	Kelimeyi doğal Türkçe telaffuzuyla okuyun.	none		DEMO-STATIC	word	true	none
+demo03_err	word	kapı	kapı	/kʰa.ˈpʰɯ/	/ɡa.ˈpʰɯ/	voicing_k_to_g			error	voicing_k_to_g	demo	kolay	Kelimeyi 'gapı' gibi okuyun: baştaki k sesini ötümlü g olarak çıkarın.	k→g: ötümsüz patlamalı ötümlüleşiyor		DEMO-STATIC	word	true	none
+demo04_ok	word	cam	cam	/d͡ʒam/					natural	none	demo	kolay	Kelimeyi doğal Türkçe telaffuzuyla okuyun.	none		DEMO-STATIC	word	true	none
+demo04_err	word	cam	cam	/d͡ʒam/	/t͡ʃam/	affricate_devoice			error	affricate_devoice	demo	kolay	Kelimeyi 'çam' gibi okuyun: baştaki c (d͡ʒ) sesini ç (t͡ʃ) olarak çıkarın.	d͡ʒ→t͡ʃ: ötümlü affrika ötümsüzleşiyor		DEMO-STATIC	word	true	none
+demo05_ok	word	kas	kas	/kʰas/					natural	none	demo	kolay	Kelimeyi doğal Türkçe telaffuzuyla okuyun.	none		DEMO-STATIC	word	true	none
+demo05_err	word	kas	kas	/kʰas/	/kʰaʃ/	fricative_s_to_sh			error	fricative_s_to_sh	demo	kolay	Kelimeyi 'kaş' gibi okuyun: sondaki s sesini ş olarak çıkarın.	s→ş: ötümsüz sürtünmeli öndamaksıla kayıyor		DEMO-STATIC	word	true	none
+demo06_ok	word	göz	göz	/ɟœz/					natural	none	demo	kolay	Kelimeyi doğal Türkçe telaffuzuyla okuyun.	none		DEMO-STATIC	word	true	none
+demo06_err	word	göz	göz	/ɟœz/	/ɟoz/	front_rounded_to_back			error	front_rounded_to_back	demo	kolay	Kelimeyi 'goz' gibi okuyun: ö (œ) ünlüsünü düz, arka o olarak çıkarın.	œ→o: ön yuvarlak ünlü arka yuvarlağa kayıyor		DEMO-STATIC	word	true	none
+demo07_ok	word	kâr	kâr	/cʰaːɾ̞̊/					natural	none	demo	kolay	Kelimeyi doğal Türkçe telaffuzuyla okuyun.	none		DEMO-STATIC	word	true	none
+demo07_err	word	kâr	kâr	/cʰaːɾ̞̊/	/kʰaɾ/	long_vowel_shorten			error	long_vowel_shorten	demo	kolay	Kelimeyi düz 'kar' gibi okuyun: uzun â'yı kısa a yapın, ince k'yi kalın k'ye çevirin.	aː→a, cʰ→kʰ: uzunluk ve damaksıllık kaybı		DEMO-STATIC	word	true	none
+demo08_ok	word	çiçek	çiçek	/t͡ʃi.ˈt͡ʃec/					natural	none	demo	kolay	Kelimeyi doğal Türkçe telaffuzuyla okuyun.	none		DEMO-STATIC	word	true	none
+demo08_err	word	çiçek	çiçek	/t͡ʃi.ˈt͡ʃec/	/ʃi.ˈʃec/	affricate_to_fricative			error	affricate_to_fricative	demo	kolay	Kelimeyi 'şişek' gibi okuyun: ç (t͡ʃ) seslerini ş (ʃ) olarak çıkarın.	t͡ʃ→ʃ: tabloda kontrast yok — bilinçli 'belirsiz/güvenli' örnek		DEMO-STATIC	word	true	none
+demo09_ok	word	tencere	tencere	/tʰeɲ.ˈd͡ʒe.ɾe/					natural	none	demo	kolay	Kelimeyi doğal Türkçe telaffuzuyla okuyun.	none		DEMO-STATIC	word	true	none
+demo09_err	word	tencere	tencere	/tʰeɲ.ˈd͡ʒe.ɾe/	/tʰæɲ.ˈd͡ʒe.ɾe/	open_e			error	open_e	demo	kolay	İlk e'yi açık /æ/ ('ben/gel'deki gibi) okuyun: 'tæncere'. Diğer sesler aynı kalsın.	e→æ: ilk hecedeki kapalı e açık /æ/'ye kayıyor — sistem bunu bilinçle suçlamaz (güvenli örnek)		DEMO-STATIC	word	true	none
+demo10_ok	word	ışık	ışık	/ɯ.ˈʃɯk/					natural	none	demo	kolay	Kelimeyi doğal Türkçe telaffuzuyla okuyun.	none		DEMO-STATIC	word	true	none
+demo10_err	word	ışık	ışık	/ɯ.ˈʃɯk/	/i.ˈʃik/	back_unrounded_to_front			error	back_unrounded_to_front	demo	kolay	Kelimeyi 'işik' gibi okuyun: ı (ɯ) seslerini ön i olarak çıkarın.	ɯ→i: art düz ünlü ön i'ye kayıyor		DEMO-STATIC	word	true	none

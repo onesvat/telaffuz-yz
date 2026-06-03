@@ -1,0 +1,76 @@
+id,word,category,source,source_rank,target_ipa,target_phones,target_status,notes
+BLIND75-001,program,ccv_onset_cluster,expert_curation,0,/pʰɾo.ˈɡɾam/,pʰ ɾ o ɡ ɾ a m,filled,pr- onset cluster + word-final r-devoicing
+BLIND75-002,sprey,ccv_onset_cluster,expert_curation,0,/sipʰ.ɾej/,s i pʰ ɾ e j,filled,3-consonant /spr/ onset cluster (loanword)
+BLIND75-003,beyazsaray,compound_initial_stress,expert_curation,0,/be.jaz.sa.ˈɾaj/,b e j a z s a ɾ a j,filled,compound (beyaz+saray) ilk eleman vurgu + sonorant koda l yok
+BLIND75-004,başbakan,compound_initial_stress,expert_curation,0,/baʃ.ba.ˈkʰan/,b a ʃ b a kʰ a n,filled,compound (baş+bakan) ilk eleman vurgu + voicing assim ş-b
+BLIND75-005,memur,long_vowel_lex,expert_curation,0,/meːˈmuɾ̞̊/,m eː m u ɾ̞̊,filled,Arabic loanword medial long u (?)
+BLIND75-006,dahil,long_vowel_lex,expert_curation,0,/daː.ˈhil/,d aː h i l,filled,Arabic loan; uzun â + /h/ korunur — standart [daːhil]; gold düzeltildi 2026-05-17
+BLIND75-007,şehir,no_e_open_lex,expert_curation,0,/ʃe.ˈhiɾ̞̊/,ʃ e h i ɾ̞̊,filled,Arabic loan; h-coda ama /e/ açık değil (kapalı /e/ tutulmalı)
+BLIND75-008,çene,no_e_open_lex,expert_curation,0,/t͡ʃe.ˈne/,t͡ʃ e n e,filled,açık hece /e/ kapalı kalır (no /æ/); intervokalik n
+BLIND75-009,sokak,no_word_final_aspirate,expert_curation,0,/so.ˈkʰak/,s o kʰ a k,filled,word-final k aspire yok (sadece syllable-initial)
+BLIND75-010,hayvan,no_word_final_aspirate,expert_curation,0,/haj.ˈvan/,h a j v a n,filled,word-final n + /aj/ diftongoid; v intervokalik
+BLIND75-011,çetin,obstruent_coda_close,expert_curation,0,/t͡ʃe.ˈtʰin/,t͡ʃ e tʰ i n,filled,t obstruent → /e/ kapalı (no /æ/); özel ad yatkın
+BLIND75-012,mektup,obstruent_coda_close,expert_curation,0,/mek.ˈtʰup/,m e k tʰ u p,filled,k obstruent koda → /e/ kapalı; final p aspire yok
+BLIND75-013,kara,onset_aspirate,expert_curation,0,/kʰa.ˈɾa/,kʰ a ɾ a,filled,hece-başı k → kʰ velar (back vowel)
+BLIND75-014,patates,onset_aspirate,expert_curation,0,/pʰa.tʰa.ˈtʰes/,pʰ a tʰ a tʰ e s,filled,p ve t syllable-initial → aspire; final s
+BLIND75-015,kişi,onset_aspirate_palatal,expert_curation,0,/cʰi.ˈʃi/,cʰ i ʃ i,filled,k+i palatal aspire → cʰ
+BLIND75-016,gider,onset_aspirate_palatal,expert_curation,0,/ɟi.ˈdæɾ̞̊/,ɟ i d æ ɾ̞̊,filled,g+i palatal → ɟ (no aspire ama palatal); r-devoicing final
+BLIND75-017,muğla,place_name_lex,expert_curation,0,/muː.ˈɫa/,m uː ɫ a,filled,yer adı Sezer stres; ğ+l coda+consonant → ünlü uzatma /muːla/
+BLIND75-018,sakarya,place_name_lex,expert_curation,0,/sa.kʰaɾ.ˈja/,s a kʰ a ɾ j a,filled,yer adı Sezer (cretic ritim → antepenult mu penult mu?)
+BLIND75-019,sefer,r_devoicing,expert_curation,0,/se.ˈfæɾ̞̊/,s e f æ ɾ̞̊,filled,word-final r devoiced; obstruent koda yok
+BLIND75-020,gözler,r_devoicing,expert_curation,0,/ɟœz.ˈlæɾ̞̊/,ɟ œ z l æ ɾ̞̊,filled,word-final r devoiced + l-coda + ö palatal etkisi
+BLIND75-021,muharrem,rr_lex_close,expert_curation,0,/mu.haɾ.ˈɾæm/,m u h a ɾ ɾ æ m,filled,geminat /rr/ koda → /e/ kapalı (no /æ/); özel ad
+BLIND75-022,hürriyet,rr_lex_close,expert_curation,0,/hyɾ.ɾi.ˈjet/,h y ɾ ɾ i j e t,filled,geminat /rr/ koda + ü palatal etkisi
+BLIND75-023,buğu,soft_g_back_back_hiatus,expert_curation,0,/bu.ˈu/,b u u,filled,"intervokalik u-ğ-u → hiatus /bu.u/ (ADR 024), uzatma YOK; gold düzeltildi 2026-05-17"
+BLIND75-024,ağabey,soft_g_back_back_hiatus,expert_curation,0,/a.a.ˈbej/,a a b e j,filled,intervokalik a-ğ-a hiatus (ADR 024 uzatma yok) + e diftong; gold düzeltildi 2026-05-17
+BLIND75-025,beğenmek,soft_g_e_coda,expert_curation,0,/be.jæn.ˈmec/,b e j æ n m e c,filled,/e/+coda ğ önce nasal n → [ej] diftong
+BLIND75-026,çiğnemek,soft_g_e_coda,expert_curation,0,/t͡ʃiː.ne.ˈmec/,t͡ʃ iː n e m e c,filled,/i/+ğ+nasal — i için davranış (e_coda kuralının i-ortamına genelleme testi)
+BLIND75-027,iğne,soft_g_front_front,expert_curation,0,/iː.ˈne/,iː n e,filled,intervokalik i-ğ-e → [j] front-front jot
+BLIND75-028,düğün,soft_g_front_front,expert_curation,0,/dy.ˈjyn/,d y j y n,filled,intervokalik ü-ğ-ü → [j] front-front jot
+BLIND75-029,yağ,soft_g_monosyllabic,expert_curation,0,/jaː/,j aː,filled,tek heceli word-final ğ → uzatma /jaː/
+BLIND75-030,iğ,soft_g_monosyllabic,expert_curation,0,/iː/,iː,filled,tek heceli /i/+ğ → nadir /iː/; eğirme aleti
+BLIND75-031,sel,sonorant_coda_open,expert_curation,0,/sæl/,s æ l,filled,sonorant l koda → /æ/ açık (no_e_open lex'te yok)
+BLIND75-032,yer,sonorant_coda_open,expert_curation,0,/jæɾ̞̊/,j æ ɾ̞̊,filled,sonorant r koda → /æ/ açık + final r-devoicing
+BLIND75-033,su,daily_freq,expert_curation,0,/su/,s u,filled,1 hece açık; en sık 100 kelime
+BLIND75-034,gün,daily_freq,expert_curation,0,/ɟyn/,ɟ y n,filled,1 hece n-coda; ü palatal etkisi (g→ɟ)
+BLIND75-035,yıl,daily_freq,expert_curation,0,/jɯɫ/,j ɯ ɫ,filled,1 hece l-coda + ı sonorant ortamı; dark ɫ
+BLIND75-036,geleceği,daily_freq,expert_curation,0,/ɟe.le.d͡ʒe.ˈji/,ɟ e l e d͡ʒ e j i,filled,3 hece; iyelik 3sg + soft-g front-front [j] (ADR 024 değil→dejil); gold düzeltildi 2026-05-17
+BLIND75-037,şimdiden,daily_freq,expert_curation,0,/ʃim.di.ˈden/,ʃ i m d i d e n,filled,ablatif eki -den; m+d küme; zarf
+BLIND75-038,yarın,daily_freq,expert_curation,0,/jaː.ˈɾɯn/,j aː ɾ ɯ n,filled,2 hece zarf; final n-coda; r intervokalik
+BLIND75-039,tekrarlamak,daily_freq,expert_curation,0,/tʰekʰ.ɾ̞̊aɾ.ɫa.ˈmak/,tʰ e kʰ ɾ̞̊ a ɾ ɫ a m a k,filled,4 hece fiil; r intervokalik + l koda + mak suffix vurgu
+BLIND75-040,büyüklük,daily_freq,expert_curation,0,/by.jyc.ˈlyc/,b y j y c l y c,filled,isim türetim -lük; ü palatal etkisi tüm hecelerde
+BLIND75-041,küçükler,daily_freq,expert_curation,0,/cʰy.t͡ʃyc.ˈlæɾ̞̊/,cʰ y t͡ʃ y c l æ ɾ̞̊,filled,çoğul -ler (lAr final stres); k palatal
+BLIND75-042,güzelliği,daily_freq,expert_curation,0,/ɟy.zæl.li.ˈji/,ɟ y z æ l l i j i,filled,iyelik 3sg + geminat /ll/ + final ğ + i palatal
+BLIND75-043,kötülük,daily_freq,expert_curation,0,/cʰœ.tʰy.ˈlyc/,cʰ œ tʰ y l y c,filled,isim türetim -lük; k velar (back) ama ö-ortamı
+BLIND75-044,yepyeni,daily_freq,expert_curation,0,/ˈjep.je.ni/,j e p j e n i,filled,pekiştirme prefix yep-; ilk hece stresi (pekiştirme kural)
+BLIND75-045,hızlanmak,daily_freq,expert_curation,0,/hɯz.ɫan.ˈmak/,h ɯ z ɫ a n m a k,filled,3 hece; -lan- türetim eki + mak; z-l küme
+BLIND75-046,yavaşça,daily_freq,expert_curation,0,/ja.vaʃ.ˈt͡ʃa/,j a v a ʃ t͡ʃ a,filled,-CA suffix (pre-accent); zarf türetimi
+BLIND75-047,arkadaşım,daily_freq,expert_curation,0,/aɾ̞̊.kʰa.da.ˈʃɯm/,a ɾ̞̊ kʰ a d a ʃ ɯ m,filled,iyelik 1sg; r-k-d küme; back vowel harmonisi
+BLIND75-048,kalemler,daily_freq,expert_curation,0,/kʰa.læm.ˈlæɾ̞̊/,kʰ a l æ m l æ ɾ̞̊,filled,3 hece çoğul; final r-devoicing + l intervokalik
+BLIND75-049,sandalye,daily_freq,expert_curation,0,/san.dal.ˈje/,s a n d a l j e,filled,3 hece alıntı; -lye küme; n+d coda+onset
+BLIND75-050,yemekler,daily_freq,expert_curation,0,/je.mec.ˈlæɾ̞̊/,j e m e c l æ ɾ̞̊,filled,3 hece çoğul + obstruent k → /e/ kapalı
+BLIND75-051,içmek,daily_freq,expert_curation,0,/it͡ʃ.ˈmec/,i t͡ʃ m e c,filled,fiil mastar -mek; ç+m küme; obstruent koda close
+BLIND75-052,oturmak,daily_freq,expert_curation,0,/o.tʰuɾ.ˈmak/,o tʰ u ɾ m a k,filled,3 hece fiil; t aspire ortası; final -mak
+BLIND75-053,konuşmak,daily_freq,expert_curation,0,/kʰo.nuʃ.ˈmak/,kʰ o n u ʃ m a k,filled,3 hece fiil; ş intervokalik
+BLIND75-054,düşünmek,daily_freq,expert_curation,0,/dy.ʃyn.ˈmec/,d y ʃ y n m e c,filled,3 hece fiil; front harmony tüm hecelerde; ş + n küme
+BLIND75-055,çalışmak,daily_freq,expert_curation,0,/t͡ʃa.ɫɯʃ.ˈmak/,t͡ʃ a ɫ ɯ ʃ m a k,filled,3 hece fiil; ş+m küme; back harmony
+BLIND75-056,deniz,daily_freq,expert_curation,0,/de.ˈniz/,d e n i z,filled,2 hece isim; intervokalik n; e açık değil mi (no_e_open)?
+BLIND75-057,park,daily_freq,expert_curation,0,/pʰaɾ̞̊k/,pʰ a ɾ̞̊ k,filled,1 hece alıntı; r+k koda küme; k velar değil palatal?
+BLIND75-058,havalanmak,daily_freq,expert_curation,0,/ha.va.ɫan.ˈmak/,h a v a ɫ a n m a k,filled,4 hece türev fiil; h+a + -lan + -mak
+BLIND75-059,duymak,daily_freq,expert_curation,0,/duj.ˈmak/,d u j m a k,filled,2 hece fiil; uy diftong + final -mak
+BLIND75-060,yazılım,daily_freq,expert_curation,0,/ja.zɯ.ˈɫɯm/,j a z ɯ ɫ ɯ m,filled,3 hece türev; -ım iyelik gibi türetim eki
+BLIND75-061,şair,edge_case,expert_curation,0,/ʃa.ˈiɾ̞̊/,ʃ a i ɾ̞̊,filled,hiatus /a.ir/ (Arabic loanword); 2 ünlü ayrı hece; nadir /iː/?
+BLIND75-062,müessese,edge_case,expert_curation,0,/ˈmy.es.se.se/,m y e s s e s e,filled,Arabic loan; uzun /eː/ ortası + iki /ss/; 4 hece
+BLIND75-063,kâğıt,edge_case,expert_curation,0,/kʰaː.ˈɯt/,kʰ aː ɯ t,filled,şapkalı â palatal velarize (k→cʰ) + intervokalik ğ + front-back ambiguity
+BLIND75-064,lâzım,edge_case,expert_curation,0,/ɫaː.ˈzɯm/,ɫ aː z ɯ m,filled,şapkalı â palatal l (l→l yumuşak); Arabic loan
+BLIND75-065,zekâ,edge_case,expert_curation,0,/ze.ˈkʰaː/,z e kʰ aː,filled,final şapkalı â — k palatal ama /a/ uzun değil mi (loan)?
+BLIND75-066,mahkumiyet,edge_case,expert_curation,0,/mah.cu.mi.ˈjet/,m a h c u m i j e t,filled,4 hece Arabic + uzun /uː/ + palatal etki; -iyet suffix vurgu
+BLIND75-067,nüfusumuz,edge_case,expert_curation,0,/ny.fu.su.ˈmuz/,n y f u s u m u z,filled,4 hece iyelik 1pl; Arabic kök + ünlü düşmesi yok; /n/ dudaksıl koartikülasyon [nʷ] sub-fonemik (yazılmaz)
+BLIND75-068,huzursuzluk,edge_case,expert_curation,0,/hu.zuɾ̞̊.suz.ˈɫuk/,h u z u ɾ̞̊ s u z ɫ u k,filled,4 hece; iki -suz- türetim üst üste; ünlü düşmesi/sürtünmesi
+BLIND75-069,oğlu,edge_case,expert_curation,0,/oː.ˈɫu/,oː ɫ u,filled,iyelik 3sg oğul→oğlu; ünlü düşmesi + soft-g coda+l → uzatma /oːlu/
+BLIND75-070,ağırlık,edge_case,expert_curation,0,/a.ɯɾ.ˈɫɯk/,a ɯ ɾ ɫ ɯ k,filled,3 hece; intervokalik ğ hiatus + final palatal /lic/
+BLIND75-071,ahmet'in,edge_case,expert_curation,0,/ah.me.ˈtʰin/,a h m e tʰ i n,filled,apostrof + ek (genitif); Arabic kök; h tıslamalı; özel ad vurgu
+BLIND75-072,karadeniz'de,edge_case,expert_curation,0,/kʰa.ɾa.de.niz.ˈde/,kʰ a ɾ a d e n i z d e,filled,compound özel ad + apostrof + lokatif; first-element stres korunur mu?
+BLIND75-073,fethiye,edge_case,expert_curation,0,/fet.hi.ˈje/,f e t h i j e,filled,yer adı Arabic kök; th sesi + -iye suffix; uzun /iː/?
+BLIND75-074,laiklik,edge_case,expert_curation,0,/ɫa.ic.ˈlic/,ɫ a i c l i c,filled,hiatus /la.ic/ Fransızca alıntı + -lik suffix; palatal k
+BLIND75-075,kâbuslarım,edge_case,expert_curation,0,/kʰaː.bus.ɫa.ˈɾɯm/,kʰ aː b u s ɫ a ɾ ɯ m,filled,4 hece; â uzun ama k velar kʰ (kâğıt ile tutarlı, motor doğru); çoğul-iyelik; gold düzeltildi 2026-05-17

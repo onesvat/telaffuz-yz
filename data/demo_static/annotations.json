@@ -1,0 +1,22 @@
+{
+  "0-correct": "Doğru telaffuz örneği. /e/ ünlüsü her iki hecede de temiz, vurgu ikinci hecede. Sistem tüm fonemleri doğru tanıdı.",
+  "1-wrong": "Hatalı telaffuz örneği. İlk hecedeki /e/ sesi /æ/'ye (açık e) kaymış. Türkçede kapalı-açık e fonemik bir karşıtlık oluşturmadığı için bu fonetik düzeyde bir sapma.",
+  "2-correct": "Doğru telaffuz örneği. /b/ ötümlü, /a/ ünlüleri temiz. Vurgu ikinci hecede, doğal bir üretim.",
+  "3-wrong": "Hatalı telaffuz örneği. /b/ (ötümlü) yerine /p/ (ötümsüz) üretilmiş. Türkçede ötümlülük ayırt edici bir özellik.",
+  "4-correct": "Doğru telaffuz örneği. /kʰ/ ve /pʰ/ soluklu duraksamalar doğru üretilmiş. Son hecedeki /ɯ/ kalınlığı korunmuş, büyük ünlü uyumu sağlanmış.",
+  "5-wrong": "Hatalı telaffuz örneği. Son hecedeki /ɯ/ (kalın ı) yerine /i/ (ince i) söylenmiş. Büyük ünlü uyumu bozulmuş — Türkçede en sık görülen telaffuz hatalarından biri.",
+  "6-correct": "Doğru telaffuz örneği. /d͡ʒ/ patlamalı-sürtünmeli (affricate) sesi temiz üretilmiş. Tek heceli, kısa bir sözcük.",
+  "7-wrong": "Hatalı telaffuz örneği. /d͡ʒ/ (c) yerine /ʒ/ (j) duyuluyor — patlama bileşeni kaybolmuş, sadece sürtünme kalmış. /ʒ/ Türkçede yalnızca alıntı sözcüklerde bulunur.",
+  "8-correct": "Doğru telaffuz örneği. /kʰ/ soluklu duraksama ve /s/ diş-sırtı sürtünmeli sesi temiz.",
+  "9-wrong": "Hatalı telaffuz örneği. /s/ (diş-sırtı) yerine /ʃ/ (dişeti-ön damak) söylenmiş. Artikülasyon yeri farkı — Türkçede her ikisi de fonemik.",
+  "10-correct": "Doğru telaffuz örneği. /ɟ/ (ince g, damaksıl) ve /œ/ (ö, ön-yuvarlak) — Türkçenin en karakteristik seslerinden ikisi temiz üretilmiş.",
+  "11-wrong": "Hatalı telaffuz örneği. /œ/ (ö) yerine /o/ söylenmiş — dudak yuvarlaklığı korunmuş ama dil öne gelmemiş. Ön-art karşıtlığı kaybolmuş.",
+  "12-correct": "Doğru telaffuz örneği. /cʰ/ (ince k, soluklu) ve /aː/ (uzun a). Arapça kökenli bu sözcükte uzunluk ayırt edici — 'kâr' ile 'kar' farklı anlamda.",
+  "13-wrong": "Hatalı telaffuz örneği. Uzun /aː/ yerine kısa /a/ söylenmiş. Uzunluk karşıtlığı kaybolduğunda sözcük anlamı değişiyor (kâr → kar).",
+  "14-correct": "Doğru telaffuz örneği. /t͡ʃ/ (ç) patlamalı-sürtünmeli ve hece sonu /c/ (ince k) temiz. İki heceli, gündelik bir sözcük.",
+  "15-wrong": "Hatalı telaffuz örneği. /t͡ʃ/ (ç) yerine /ʃ/ (ş) duyuluyor — patlama bileşeni düşmüş. Bu, sistemin 'belirsiz' karar verdiği tek örnek: t͡ʃ↔ʃ karşıtlığı karar tablosunda tanımlı değil, bilinçli bir güvenlik sınırı.",
+  "16-correct": "Doğru telaffuz örneği. /ɲ/ (genizsi n, damaksıl) ve /d͡ʒ/ (c) içeren üç heceli zor bir sözcük. /ɲ/ Türkçede /n/'nin /ɟ~c/ önünde aldığı alofonik biçim.",
+  "17-wrong": "Hatalı telaffuz örneği. /ɲ/ (genizsi n) yerine /n/ (diş-sırtı n) söylenmiş — damaksıllık kaybolmuş. Türkçe konuşurlar için alofonik olduğundan fark edilmesi zor bir hata.",
+  "18-correct": "Doğru telaffuz örneği. /ɯ/ (kalın ı) ve /ʃ/ (ş) sesleri temiz. İki heceli, vurgu ikinci hecede.",
+  "19-wrong": "Hatalı telaffuz örneği. /ɯ/ (ı) yerine /i/ söylenmiş — kalın-ince karşıtlığı. Büyük ünlü uyumu ihlali, Türkçe öğrenen yabancılar için tipik bir hata."
+}

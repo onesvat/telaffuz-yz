@@ -1,0 +1,67 @@
+prompt_id,target_text,intended_error,focus_phonemes,target_canonical_phones,target_intended_wrong_phones,strategy,notes
+W_ERR_001,görüyorum,front_rounded_to_back,j m o u y œ ɟ ɾ,ˈ ɟ œ ɾ y j o ɾ u m,ˈ ɟ o ɾ u j o ɾ u m,rule:front_rounded_to_back,"ö→o, ü→u: ön yuvarlak ünlüler düz arka ünlüye dönüşüyor"
+W_ERR_002,bölüm,front_rounded_to_back,b l m y œ,b œ ˈ l y m,b o ˈ l u m,rule:front_rounded_to_back,"ö→o, ü→u"
+W_ERR_003,kısım,back_to_front_unrounded,kʰ m s ɯ,kʰ ɯ ˈ s ɯ m,kʰ i ˈ s i m,rule:back_to_front_unrounded,ɯ→i: arka düz /ɯ/ ön düz /i/ ile karıştırılıyor
+W_ERR_004,mısın,back_to_front_unrounded,m n s ɯ,m ɯ ˈ s ɯ n,m i ˈ s i n,rule:back_to_front_unrounded,ɯ→i
+W_ERR_005,tencere,e_to_ae_overgeneralized,d͡ʒ e tʰ ɲ ɾ,tʰ e ɲ ˈ d͡ʒ e ɾ e,tʰ æ ɲ ˈ d͡ʒ e ɾ e,rule:e_to_ae_overgeneralized,/e/→/æ/ aşırı-genelleme: closed-syl kuralı bu istisna kelimeye yanlışlıkla uygulanıyor
+W_ERR_006,kedi,palatal_to_velar,cʰ d e i,cʰ e ˈ d i,kʰ e ˈ d i,rule:palatal_to_velar,c→k: palatal /cʰ/ velar /kʰ/'ye dönüşüyor
+W_ERR_007,gel,palatal_to_velar,l æ ɟ,ɟ æ l,ɡ æ l,rule:palatal_to_velar,ɟ→ɡ: palatal /ɟ/ velar /ɡ/'ye dönüşüyor
+W_ERR_008,dağ,soft_g_articulated,aː d,d aː,d a ɡ,rule:soft_g_articulated,"ğ sesli /ɡ/ olarak çıkarılıyor, uzatma kaybediliyor"
+W_ERR_009,yağmur,soft_g_articulated,aː j m u ɾ̞̊,j aː ˈ m u ɾ̞̊,j a ɡ ˈ m u ɾ̞̊,rule:soft_g_articulated,ğ sesli /ɡ/ olarak çıkarılıyor
+W_ERR_010,öğretmen,soft_g_articulated,e m n t æ œː ɾ,œː ɾ e t ˈ m æ n,œ ɣ ɾ e t ˈ m æ n,rule:soft_g_articulated,ğ duyulur fricative /ɣ/ olarak çıkarılıyor
+W_ERR_011,eğitim,soft_g_articulated,e i j m tʰ,e j i ˈ tʰ i m,e ɣ i ˈ tʰ i m,rule:soft_g_articulated,ğ duyulur fricative /ɣ/ olarak çıkarılıyor
+W_ERR_012,saat,long_vowel_shortened,aː s t,s aː t,s a t,rule:long_vowel_shortened,/aː/→/a/: uzun ünlü kısaltılıyor
+W_ERR_013,vâzo,long_vowel_shortened,aː o v z,v aː ˈ z o,v a ˈ z o,rule:long_vowel_shortened,/aː/→/a/
+W_ERR_014,kapıcı,voicing_flipped_k_to_g,a d͡ʒ kʰ pʰ ɯ,kʰ a pʰ ɯ ˈ d͡ʒ ɯ,ɡ a pʰ ɯ ˈ d͡ʒ ɯ,rule:voicing_flipped_k_to_g,word-initial /k/→/ɡ/: sessiz→sesli
+W_ERR_015,sebze,voicing_flipped_s_to_z,b e s z,s e b ˈ z e,z e b ˈ z e,rule:voicing_flipped_s_to_z,word-initial /s/→/z/
+W_ERR_016,acı,affricate_voiced_to_voiceless,a d͡ʒ ɯ,a ˈ d͡ʒ ɯ,a ˈ t͡ʃ ɯ,rule:affricate_voiced_to_voiceless,/d͡ʒ/→/t͡ʃ/: sesli affricate sessize dönüyor
+W_ERR_017,çay,affricate_voiceless_to_voiced,a j t͡ʃ,t͡ʃ a j,d͡ʒ a j,rule:affricate_voiceless_to_voiced,/t͡ʃ/→/d͡ʒ/
+W_ERR_018,alkol,l_clear_to_dark,a kʰ l o,ˈ a l kʰ o l,ˈ a ɫ kʰ o ɫ,rule:l_clear_to_dark,clear /l/→dark /ɫ/: yabancı kök l ince olmalı
+W_ERR_019,masal,l_dark_to_clear,a m s ɫ,m a ˈ s a ɫ,m a ˈ s a l,rule:l_dark_to_clear,dark /ɫ/→clear /l/
+W_ERR_020,merdiven,stress_misplaced_initial,d i m n v æ ɾ,m æ ɾ d i ˈ v æ n,ˈ m æ ɾ d i v æ n,rule:stress_misplaced_initial,stress son hece yerine ilk heceye kaydırılıyor
+W_ERR_021,geleceğim,morphological_reduction_ecegim,d͡ʒ e eː i l m ɟ,ɟ e l i ˈ d͡ʒ eː m,ɟ e l e ˈ d͡ʒ e m,rule:morphological_reduction_ecegim,"-eceğim→-ecem: sözlü reduction, yazılı standart değil"
+W_ERR_022,bitireceğim,over_articulated_eg,b d͡ʒ e i j m tʰ ɾ,b i tʰ i ɾ e ˈ d͡ʒ e j i m,b i tʰ i ɾ e ˈ d͡ʒ e ɣ i m,rule:over_articulated_eg,"aşırı-düzgün okuma: Ğ sessizleşmiyor, hece-bazlı vurgulu"
+W_ERR_023,şarj,zh_to_z_common,a ɾ ʃ ʒ,ʃ a ɾ ʒ,ʃ a ɾ z,rule:zh_to_z_common,/ʒ/→/z/: yaygın native yanlış telaffuz
+W_ERR_024,makine,vowel_e_to_a_common,a cʰ e i m n,m a cʰ i ˈ n e,m a cʰ i ˈ n a,rule:vowel_e_to_a_common,/e/→/a/ sondaki ek: yaygın native sözlü form
+W_ERR_025,şehir,r_devoicing_lost,e h i ɾ̞̊ ʃ,ʃ e ˈ h i ɾ̞̊,ʃ e ˈ h i ɾ,rule:r_devoicing_lost,ɾ̞̊→ɾ: word-final devoicing kayboluyor
+W_ERR_026,fare,r_devoiced_intervocalic,aː e f ɾ,f aː ˈ ɾ e,f aː ˈ ɾ̞̊ e,rule:r_devoiced_intervocalic,ɾ→ɾ̞̊: intervokalik aşırı devoicing
+W_ERR_027,anne,geminate_simplified,a e n,a n ˈ n e,a ˈ n e,rule:geminate_simplified,/nː/→/n/: geminate süresi kayboluyor
+W_ERR_028,dikkat,geminate_simplified,a d i k kʰ t,d i k ˈ kʰ a t,d i ˈ kʰ a t,rule:geminate_simplified,/kː/→/k/: geminate süresi kayboluyor
+W_ERR_029,otobüs,vowel_harmony_overapplied,b o s tʰ y,o tʰ o ˈ b y s,o tʰ y ˈ b y s,rule:vowel_harmony_overapplied,yabancı köke ünlü uyumu yanlış uygulanıyor
+W_ERR_030,kitabı,devoicing_alternation_lost,a b cʰ i tʰ ɯ,cʰ i tʰ a ˈ b ɯ,cʰ i tʰ a ˈ pʰ ɯ,rule:devoicing_alternation_lost,obstruent voicing alternation uygulanmıyor
+W_ERR_031,burnu,syncope_not_applied,b n u ɾ,b u ɾ ˈ n u,b u ɾ u ˈ n u,rule:syncope_not_applied,ünlü düşmesi (syncope) uygulanmıyor: burun+u → 'burnu' yerine /u/ korunup 'burunu'
+W_ERR_032,beyni,syncope_not_applied,b e i j n,b e j ˈ n i,b e j i ˈ n i,rule:syncope_not_applied,ünlü düşmesi uygulanmıyor: beyin+i → 'beyni' yerine /i/ korunup 'beyini'
+W_ERR_033,renk,nasal_velar_not_assimilated,k æ ŋ ɾ,ɾ æ ŋ k,ɾ æ n k,rule:nasal_velar_not_assimilated,velar nazal asimilasyonu yok: /n/ + /k/ → [ŋ] olması gerekirken düz /n/ tutuluyor
+W_ERR_034,banka,nasal_velar_not_assimilated,a b kʰ ŋ,b a ŋ ˈ kʰ a,b a n ˈ kʰ a,rule:nasal_velar_not_assimilated,velar nazal asimilasyonu yok: /n/ + /k/ → [ŋ] yerine düz /n/
+W_ERR_035,film,epenthesis_inserted,f i l m,f i l m,f i ˈ l i m,rule:epenthesis_inserted,ünlü türemesi (epenthesis): /lm/ kümesi 'film' yerine araya /i/ eklenip 'filim'
+W_ERR_036,tren,epenthesis_inserted,n tʰ æ ɾ,tʰ ɾ æ n,tʰ i ˈ ɾ æ n,rule:epenthesis_inserted,ünlü türemesi (epenthesis): /tr/ kümesi 'tren' yerine araya /i/ eklenip 'tiren'
+W_ERR_037,ders,ae_underapplied_l2,d e s æ ɾ̞̊,d æ ɾ̞̊ s,d e ɾ̞̊ s,rule:ae_underapplied_l2,L2 yaygın hatası: sonorant koda /ɾ/ → /e/ açık /æ/ olmalı
+W_ERR_038,perde,ae_underapplied_l2,d e pʰ æ ɾ,pʰ æ ɾ ˈ d e,pʰ e ɾ ˈ d e,rule:ae_underapplied_l2,"kapalı hece + sonorant koda /ɾ/ → /æ/ olmalı, L2 /e/ söylüyor"
+W_ERR_039,denk,ae_underapplied_l2,d e k æ ŋ,d æ ŋ k,d e ŋ k,rule:ae_underapplied_l2,sonorant koda /ŋ/ → /æ/ olmalı
+W_ERR_040,fener,ae_underapplied_l2,e f n æ ɾ̞̊,f e ˈ n æ ɾ̞̊,f e ˈ n e ɾ̞̊,rule:ae_underapplied_l2,"ikinci hece kapalı + sonorant koda → /æ/, L2 ünlü uyumuyla /e/ tutuyor"
+W_ERR_041,çelik,e_to_ae_overgeneralized,c e i l t͡ʃ æ,t͡ʃ e ˈ l i c,t͡ʃ æ ˈ l i c,rule:e_to_ae_overgeneralized,obstruent koda yok ama L1 native bazen aşırı genelleyip /æ/ söyleyebilir
+W_ERR_042,ekmek,e_to_ae_overgeneralized,c e k m æ,e k ˈ m e c,æ k ˈ m æ c,rule:e_to_ae_overgeneralized,"obstruent koda /k, c/ → /e/ kalmalı; aşırı uygulama /æ/ üretiyor"
+W_ERR_043,göl,front_rounded_to_back,l o œ ɟ ɡ,ɟ œ l,ɡ o l,rule:front_rounded_to_back,"/œ/ → /o/, palatal /ɟ/ → velar /ɡ/"
+W_ERR_044,dön,front_rounded_to_back,d n o œ,d œ n,d o n,rule:front_rounded_to_back,/œ/ → /o/: ön yuvarlak ünlü düz arka ünlüye
+W_ERR_045,söz,front_rounded_to_back,o s z œ,s œ z,s o z,rule:front_rounded_to_back,/œ/ → /o/
+W_ERR_046,öl,front_rounded_to_back,l o œ,œ l,o l,rule:front_rounded_to_back,/œ/ → /o/
+W_ERR_047,hava,h_deleted_initial,a h v,h a ˈ v a,a ˈ v a,rule:h_deleted_initial,yaygın native sözlü form: word-initial /h/ düşüyor
+W_ERR_048,hep,h_deleted_initial,e h p,h e p,e p,rule:h_deleted_initial,word-initial /h/ düşmesi
+W_ERR_049,sabah,h_deleted_final,a b h s,s a ˈ b a h,s a ˈ b a,rule:h_deleted_final,yaygın sözlü form: word-final /h/ düşüyor
+W_ERR_050,kahve,h_retained_intervocalic,a aː e h kʰ v,kʰ aː ˈ v e,kʰ a h ˈ v e,rule:h_retained_intervocalic,İstanbul native: intervokalik /h/ düşüp uzun ünlü; aşırı-düzgün okuma /h/'i tutuyor
+W_ERR_051,şişe,sh_to_s_substituted,e i s ʃ,ʃ i ˈ ʃ e,s i ˈ s e,rule:sh_to_s_substituted,/ʃ/ → /s/: L2 distinct /ʃ/ algılayamıyor
+W_ERR_052,şarkı,sh_to_s_substituted,a kʰ s ɯ ɾ̞̊ ʃ,ʃ a ɾ̞̊ ˈ kʰ ɯ,s a ɾ̞̊ ˈ kʰ ɯ,rule:sh_to_s_substituted,/ʃ/ → /s/
+W_ERR_053,sıcak,s_to_sh_substituted,a d͡ʒ k s ɯ ʃ,s ɯ ˈ d͡ʒ a k,ʃ ɯ ˈ d͡ʒ a k,rule:s_to_sh_substituted,/s/ → /ʃ/: hiper-düzeltme veya bölgesel etki
+W_ERR_054,kâr,palatal_to_velar,aː cʰ kʰ ɾ̞̊,cʰ aː ɾ̞̊,kʰ aː ɾ̞̊,rule:palatal_to_velar,circumflex â palatalization kayboluyor: /cʰ/ → /kʰ/
+W_ERR_055,lâle,long_vowel_shortened,a aː e l ɫ,ɫ aː ˈ l e,l a ˈ l e,rule:long_vowel_shortened,/aː/ → /a/: circumflex â uzunluğu kayboluyor
+W_ERR_056,hâlâ,long_vowel_shortened,a aː h ɫ,h aː ˈ ɫ aː,h a ˈ ɫ a,rule:long_vowel_shortened,iki /aː/ → /a/: tekrarlı uzun ünlü kısaltılıyor
+W_ERR_057,dâhi,long_vowel_shortened,a aː d h i,d aː ˈ h i,d a ˈ h i,rule:long_vowel_shortened,/aː/ → /a/
+W_ERR_058,spor,epenthesis_inserted,o pʰ s ɯ ɾ̞̊,s pʰ o ɾ̞̊,ɯ s ˈ pʰ o ɾ̞̊,rule:epenthesis_inserted,/sp/ kümesine /ɯ/ ünlü türemesi: 'sıpor/ıspor'
+W_ERR_059,gram,epenthesis_inserted,a m ɡ ɯ ɾ,ɡ ɾ a m,ɡ ɯ ˈ ɾ a m,rule:epenthesis_inserted,/gr/ kümesine /ɯ/ türemesi: 'gıram'
+W_ERR_060,plan,epenthesis_inserted,a i l n pʰ,pʰ l a n,pʰ i ˈ l a n,rule:epenthesis_inserted,/pl/ kümesine /i/ türemesi: 'pilan'
+W_ERR_061,kitap,devoicing_alternation_lost,a b cʰ i p tʰ,cʰ i ˈ tʰ a p,cʰ i ˈ tʰ a b,rule:devoicing_alternation_lost,word-final obstruent devoicing /b/→/p/ olmalı; L2 yazıma uyup /b/ tutuyor
+W_ERR_062,dolap,devoicing_alternation_lost,a b d o p ɫ,d o ˈ ɫ a p,d o ˈ ɫ a b,rule:devoicing_alternation_lost,word-final /b/→/p/ alternation
+W_ERR_063,lokanta,stress_misplaced_final,a kʰ n o tʰ ɫ,ˈ ɫ o kʰ a n tʰ a,ɫ o kʰ a n ˈ tʰ a,rule:stress_misplaced_final,leksikal initial stress; L2 default final-stress kuralını uyguluyor
+W_ERR_064,sinema,stress_misplaced_final,a e i m n s,ˈ s i n e m a,s i n e ˈ m a,rule:stress_misplaced_final,leksikal initial stress
+W_ERR_065,demokrasi,stress_misplaced_initial,a d e i kʰ m o s ɾ,d e m o kʰ ɾ a ˈ s i,ˈ d e m o kʰ ɾ a s i,rule:stress_misplaced_initial,düzenli final stress; hyperdüzeltme initial stress
+W_ERR_066,üniversite,stress_misplaced_initial,e i n s tʰ v y æ ɾ̞̊,y n i v æ ɾ̞̊ s i ˈ tʰ e,ˈ y n i v æ ɾ̞̊ s i tʰ e,rule:stress_misplaced_initial,düzenli final stress

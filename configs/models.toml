@@ -1,0 +1,16 @@
+# Final model registry.
+# Model directories are external artifacts and are intentionally gitignored.
+
+default = "mms-1b"
+
+[models.mms-1b]
+display_name = "MMS-1B phoneme CTC fine-tune"
+checkpoint = "data/models/mms1b_phoneme"
+processor = "data/models/mms1b_phoneme"
+frozen = true
+
+[models.xls-r-300m]
+display_name = "XLS-R-300M phoneme CTC fine-tune"
+checkpoint = "data/models/xlsr300m_phoneme"
+processor = "data/models/xlsr300m_phoneme"
+frozen = true
