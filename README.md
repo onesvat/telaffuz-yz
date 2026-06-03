@@ -46,6 +46,18 @@ uv run python scripts/eval_validation_recordings.py --limit 3
 uv run python scripts/plot_wav2vec_per.py
 ```
 
+## Hugging Face Models
+
+The released phoneme-CTC recognizers are published on Hugging Face. The Git
+repository keeps the code, configs, and small evaluation artifacts; model
+checkpoints remain external and are resolved locally through
+`configs/models.toml`.
+
+| Runtime alias | Hugging Face model | Base model | License |
+|---|---|---|---|
+| `mms-1b` | [`onesvat/telaffuz-yz-wav2vec-mms1b`](https://huggingface.co/onesvat/telaffuz-yz-wav2vec-mms1b) | [`facebook/mms-1b-fl102`](https://huggingface.co/facebook/mms-1b-fl102) | CC-BY-NC-4.0 |
+| `xls-r-300m` | [`onesvat/telaffuz-yz-wav2vec-xlsr300m`](https://huggingface.co/onesvat/telaffuz-yz-wav2vec-xlsr300m) | [`facebook/wav2vec2-xls-r-300m`](https://huggingface.co/facebook/wav2vec2-xls-r-300m) | Apache-2.0 |
+
 ## Audio Pipeline CLI
 
 The `uv run audio <subcommand>` command exposes the internal audio corpus
