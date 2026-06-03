@@ -49,5 +49,14 @@ data/app/
 runs/
 data/demo_capture/recordings*/
 
+# Public release audio assets.
+!data/demo_static/audio/
+!data/demo_static/audio/*.wav
+!data/validation/recordings/
+!data/validation/recordings/onur/
+!data/validation/recordings/onur/*.wav
+!data/validation/recordings/gamze/
+!data/validation/recordings/gamze/*.wav
+
 # Ağır küratörlü atlas build çıktıları (harici DB'den yeniden üretilir; artifakt politikası)
 artifacts/curated_stop_place/
